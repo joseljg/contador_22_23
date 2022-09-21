@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Count 22 23</string>
+    <string name="texto_mensaje" translatable="false">Message</string>
+    <string name="textocontar" translatable="false">Counter</string>
+    <string name="textoreset" translatable="false">reset</string>
+    <string name="texto_numero">0</string>
+    <string name="texto_cero">0</string>
+    <string name="texto_boton_mensaje">message</string>
+</resources>

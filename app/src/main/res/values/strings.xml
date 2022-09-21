@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Contador 22 23</string>
+    <string name="app_name" translatable="false">Contador 22 23</string>
+    <string name="texto_mensaje" translatable="false">Mensaje</string>
+    <string name="textocontar" translatable="false">Contar</string>
+    <string name="textoreset" translatable="false">Resetear</string>
+    <string name="texto_numero">0</string>
+    <string name="texto_cero">0</string>
+    <string name="texto_boton_mensaje">mensaje</string>
 </resources>
